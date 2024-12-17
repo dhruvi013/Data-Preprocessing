@@ -1,0 +1,1 @@
+This project focuses on preparing raw datasets for further analysis or machine learning tasks. The preprocessing steps include handling missing values, encoding categorical variables, scaling numerical features, and saving the cleaned dataset. This process ensures the data is structured, consistent, and ready for analysis.
